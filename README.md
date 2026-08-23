@@ -4,3 +4,6 @@ Run: `python src/dungeon.py`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
